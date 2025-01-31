@@ -47,14 +47,14 @@ export default function ChatApp() {
       let done = false;
       let messageContent = "";
       let reasoningContent = "";
+      let jsonString = ""
 
       while (!done) {
         const { value, done: doneReading } = await reader.read();
         done = doneReading;
 
         const chunkContent = decoder.decode(value, { stream: true });
-        const data = JSON.parse(`[${chunkContent.replace(/}{/g, "},{").replace(/}\n{/g, "},{")}]`);
-        messageContent += data.map((d) => d.message?.content).join("");
+        jsonString += chunkContent;
 
         if (chunkContent.startsWith("<think>")) {
           setIsThinking(true);
@@ -65,6 +65,21 @@ export default function ChatApp() {
         } else if (isThinking) {
           reasoningContent += chunkContent;
         }
+      }
+
+      try {
+        const jsonArray = jsonString
+          .split('\n')
+          .filter(line => line.trim())
+          .map(line => JSON.parse(line));
+
+        jsonArray.forEach(data => {
+          if (data.message?.content) {
+            messageContent += data.message.content;
+          }
+        });
+      } catch (e) {
+        console.error("JSON parsing error:", e);
       }
 
       setMessages((prev) => {
@@ -136,24 +151,24 @@ export default function ChatApp() {
     const formData = new FormData();
     formData.append("audio", new Blob([audioBlob], { type: "audio/wav" }));
     // formData.append("audio", audioBlob, "recording.wav"); // Attach the Blob
-  
+
     try {
       const response = await fetch("http://localhost:5001/transcribe", {
         method: "POST",
         body: formData, // Send FormData instead of JSON
       });
-  
+
       if (!response.ok) {
         throw new Error("Failed to transcribe audio");
       }
-  
+
       const data = await response.json();
       setInput(data.text); // Set the transcription result as input message
     } catch (error) {
       console.error("Error sending audio to Whisper:", error);
     }
   };
-  
+
   return (
     <div className="container py-4">
       <h1>
@@ -168,21 +183,19 @@ export default function ChatApp() {
           {messages.map((msg, index) => (
             <motion.div
               key={index}
-              className={`d-flex mb-3 ${
-                msg.role === "user"
+              className={`d-flex mb-3 ${msg.role === "user"
                   ? "justify-content-end"
                   : "justify-content-start"
-              }`}
+                }`}
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.3 }}
             >
               <Card
-                className={`p-3 rounded shadow-sm ${
-                  msg.role === "user"
+                className={`p-3 rounded shadow-sm ${msg.role === "user"
                     ? "bg-primary text-white"
                     : "bg-light text-dark"
-                }`}
+                  }`}
                 style={{ maxWidth: "70%" }}
               >
                 <p>{msg.content}</p>
