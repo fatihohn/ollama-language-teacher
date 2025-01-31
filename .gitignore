@@ -1,3 +1,2 @@
 .env
-logs/nginx/access.log
-logs/nginx/error.log
+logs
