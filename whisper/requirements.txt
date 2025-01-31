@@ -1,0 +1,12 @@
+python-dotenv==1.0.0
+faster-whisper==1.0.2
+sounddevice==0.4.6
+numpy==1.26.3
+torch==2.1.0
+torchaudio==2.1.0
+imageio[ffmpeg]
+flask==2.1.1
+transformers>=4.20.0  # Loosen version constraint for transformers
+tokenizers>=0.13,<1.0  # Ensure tokenizers version is compatible with faster-whisper
+werkzeug==2.0.3
+pydub==0.25.1

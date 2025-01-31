@@ -1,0 +1,1332 @@
+2025/01/30 10:59:24 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 10:59:25 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 10:59:25 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 10:59:26 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 10:59:27 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 10:59:28 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 10:59:32 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 10:59:39 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 10:59:52 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:00:18 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:09 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:32 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:32 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:33 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:33 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:34 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:36 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:39 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:46 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:01:59 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:23 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:23 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:23 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:24 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:25 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:27 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:30 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:37 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:56 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:56 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:56 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:57 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:02:58 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:03:00 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:03:03 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:03:10 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:03:23 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:03:49 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:04:40 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2025/01/30 11:10:38 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:10:38 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:10:38 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:10:38 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:10:38 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:10:38 [notice] 1#1: start worker processes
+2025/01/30 11:10:38 [notice] 1#1: start worker process 28
+2025/01/30 11:10:38 [notice] 1#1: start worker process 29
+2025/01/30 11:10:38 [notice] 1#1: start worker process 30
+2025/01/30 11:10:38 [notice] 1#1: start worker process 31
+2025/01/30 11:10:38 [notice] 1#1: start worker process 32
+2025/01/30 11:10:38 [notice] 1#1: start worker process 33
+2025/01/30 11:10:38 [notice] 1#1: start worker process 34
+2025/01/30 11:10:38 [notice] 1#1: start worker process 35
+2025/01/30 11:13:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 11:13:10 [notice] 29#29: gracefully shutting down
+2025/01/30 11:13:10 [notice] 28#28: gracefully shutting down
+2025/01/30 11:13:10 [notice] 32#32: gracefully shutting down
+2025/01/30 11:13:10 [notice] 29#29: exiting
+2025/01/30 11:13:10 [notice] 33#33: gracefully shutting down
+2025/01/30 11:13:10 [notice] 34#34: gracefully shutting down
+2025/01/30 11:13:10 [notice] 31#31: gracefully shutting down
+2025/01/30 11:13:10 [notice] 35#35: gracefully shutting down
+2025/01/30 11:13:10 [notice] 28#28: exiting
+2025/01/30 11:13:10 [notice] 32#32: exiting
+2025/01/30 11:13:10 [notice] 28#28: exit
+2025/01/30 11:13:10 [notice] 30#30: gracefully shutting down
+2025/01/30 11:13:10 [notice] 29#29: exit
+2025/01/30 11:13:10 [notice] 33#33: exiting
+2025/01/30 11:13:10 [notice] 34#34: exiting
+2025/01/30 11:13:10 [notice] 34#34: exit
+2025/01/30 11:13:10 [notice] 31#31: exiting
+2025/01/30 11:13:10 [notice] 32#32: exit
+2025/01/30 11:13:10 [notice] 35#35: exiting
+2025/01/30 11:13:10 [notice] 33#33: exit
+2025/01/30 11:13:10 [notice] 35#35: exit
+2025/01/30 11:13:10 [notice] 31#31: exit
+2025/01/30 11:13:10 [notice] 30#30: exiting
+2025/01/30 11:13:10 [notice] 30#30: exit
+2025/01/30 11:13:10 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 11:13:10 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 11:13:10 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 11:13:10 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 11:13:10 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 11:13:10 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 11:13:10 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 11:13:10 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 11:13:10 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 11:13:10 [notice] 1#1: exit
+2025/01/30 11:14:19 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:14:19 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:14:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:14:19 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:14:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:14:19 [notice] 1#1: start worker processes
+2025/01/30 11:14:19 [notice] 1#1: start worker process 28
+2025/01/30 11:14:19 [notice] 1#1: start worker process 29
+2025/01/30 11:14:19 [notice] 1#1: start worker process 30
+2025/01/30 11:14:19 [notice] 1#1: start worker process 31
+2025/01/30 11:14:19 [notice] 1#1: start worker process 32
+2025/01/30 11:14:19 [notice] 1#1: start worker process 33
+2025/01/30 11:14:19 [notice] 1#1: start worker process 34
+2025/01/30 11:14:19 [notice] 1#1: start worker process 35
+2025/01/30 11:15:15 [error] 32#32: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /whisper/transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/whisper/transcribe", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:15:51 [error] 33#33: *15 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /whisper/transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/whisper/transcribe", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:20:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 11:20:51 [notice] 29#29: gracefully shutting down
+2025/01/30 11:20:51 [notice] 33#33: gracefully shutting down
+2025/01/30 11:20:51 [notice] 28#28: gracefully shutting down
+2025/01/30 11:20:51 [notice] 30#30: gracefully shutting down
+2025/01/30 11:20:51 [notice] 31#31: gracefully shutting down
+2025/01/30 11:20:51 [notice] 34#34: gracefully shutting down
+2025/01/30 11:20:51 [notice] 35#35: gracefully shutting down
+2025/01/30 11:20:51 [notice] 30#30: exiting
+2025/01/30 11:20:51 [notice] 29#29: exiting
+2025/01/30 11:20:51 [notice] 32#32: gracefully shutting down
+2025/01/30 11:20:51 [notice] 33#33: exiting
+2025/01/30 11:20:51 [notice] 35#35: exiting
+2025/01/30 11:20:51 [notice] 28#28: exiting
+2025/01/30 11:20:51 [notice] 33#33: exit
+2025/01/30 11:20:51 [notice] 31#31: exiting
+2025/01/30 11:20:51 [notice] 35#35: exit
+2025/01/30 11:20:51 [notice] 34#34: exiting
+2025/01/30 11:20:51 [notice] 29#29: exit
+2025/01/30 11:20:51 [notice] 30#30: exit
+2025/01/30 11:20:51 [notice] 31#31: exit
+2025/01/30 11:20:51 [notice] 32#32: exiting
+2025/01/30 11:20:51 [notice] 34#34: exit
+2025/01/30 11:20:51 [notice] 28#28: exit
+2025/01/30 11:20:51 [notice] 32#32: exit
+2025/01/30 11:20:51 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 11:20:51 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 11:20:51 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 11:20:51 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 11:20:51 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 11:20:51 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 11:20:51 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 11:20:51 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 11:20:51 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 11:20:51 [notice] 1#1: exit
+2025/01/30 11:21:06 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:21:06 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:21:06 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:21:06 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:21:06 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:21:06 [notice] 1#1: start worker processes
+2025/01/30 11:21:06 [notice] 1#1: start worker process 28
+2025/01/30 11:21:06 [notice] 1#1: start worker process 29
+2025/01/30 11:21:06 [notice] 1#1: start worker process 30
+2025/01/30 11:21:06 [notice] 1#1: start worker process 31
+2025/01/30 11:21:06 [notice] 1#1: start worker process 32
+2025/01/30 11:21:06 [notice] 1#1: start worker process 33
+2025/01/30 11:21:06 [notice] 1#1: start worker process 34
+2025/01/30 11:21:06 [notice] 1#1: start worker process 35
+2025/01/30 11:21:11 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:21:12 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:21:13 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:21:14 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:21:27 [error] 30#30: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:21:27 [error] 30#30: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:21:43 [error] 35#35: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /whisper/transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/whisper/transcribe", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:22:01 [error] 31#31: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /whisper/transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/whisper/transcribe", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:24:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 11:24:23 [notice] 29#29: gracefully shutting down
+2025/01/30 11:24:23 [notice] 35#35: gracefully shutting down
+2025/01/30 11:24:23 [notice] 31#31: gracefully shutting down
+2025/01/30 11:24:23 [notice] 34#34: gracefully shutting down
+2025/01/30 11:24:23 [notice] 33#33: gracefully shutting down
+2025/01/30 11:24:23 [notice] 28#28: gracefully shutting down
+2025/01/30 11:24:23 [notice] 30#30: gracefully shutting down
+2025/01/30 11:24:23 [notice] 32#32: gracefully shutting down
+2025/01/30 11:24:23 [notice] 29#29: exiting
+2025/01/30 11:24:23 [notice] 35#35: exiting
+2025/01/30 11:24:23 [notice] 30#30: exiting
+2025/01/30 11:24:23 [notice] 34#34: exiting
+2025/01/30 11:24:23 [notice] 30#30: exit
+2025/01/30 11:24:23 [notice] 31#31: exiting
+2025/01/30 11:24:23 [notice] 28#28: exiting
+2025/01/30 11:24:23 [notice] 33#33: exiting
+2025/01/30 11:24:23 [notice] 32#32: exiting
+2025/01/30 11:24:23 [notice] 35#35: exit
+2025/01/30 11:24:23 [notice] 29#29: exit
+2025/01/30 11:24:23 [notice] 34#34: exit
+2025/01/30 11:24:23 [notice] 31#31: exit
+2025/01/30 11:24:23 [notice] 28#28: exit
+2025/01/30 11:24:23 [notice] 32#32: exit
+2025/01/30 11:24:23 [notice] 33#33: exit
+2025/01/30 11:24:23 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2025/01/30 11:24:23 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 11:24:23 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 11:24:23 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:24:23 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 11:24:23 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 11:24:23 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 11:24:23 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 11:24:23 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 11:24:23 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 11:24:23 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 11:24:23 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 11:24:23 [notice] 1#1: exit
+2025/01/30 11:25:50 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:25:50 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:25:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:25:50 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:25:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:25:50 [notice] 1#1: start worker processes
+2025/01/30 11:25:50 [notice] 1#1: start worker process 28
+2025/01/30 11:25:50 [notice] 1#1: start worker process 29
+2025/01/30 11:25:50 [notice] 1#1: start worker process 30
+2025/01/30 11:25:50 [notice] 1#1: start worker process 31
+2025/01/30 11:25:50 [notice] 1#1: start worker process 32
+2025/01/30 11:25:50 [notice] 1#1: start worker process 33
+2025/01/30 11:25:50 [notice] 1#1: start worker process 34
+2025/01/30 11:25:50 [notice] 1#1: start worker process 35
+2025/01/30 11:26:25 [error] 28#28: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "OPTIONS /transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 11:28:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 11:28:12 [notice] 28#28: gracefully shutting down
+2025/01/30 11:28:12 [notice] 33#33: gracefully shutting down
+2025/01/30 11:28:12 [notice] 29#29: gracefully shutting down
+2025/01/30 11:28:12 [notice] 32#32: gracefully shutting down
+2025/01/30 11:28:12 [notice] 28#28: exiting
+2025/01/30 11:28:12 [notice] 30#30: gracefully shutting down
+2025/01/30 11:28:12 [notice] 35#35: gracefully shutting down
+2025/01/30 11:28:12 [notice] 28#28: exit
+2025/01/30 11:28:12 [notice] 31#31: gracefully shutting down
+2025/01/30 11:28:12 [notice] 34#34: gracefully shutting down
+2025/01/30 11:28:12 [notice] 33#33: exiting
+2025/01/30 11:28:12 [notice] 29#29: exiting
+2025/01/30 11:28:12 [notice] 32#32: exiting
+2025/01/30 11:28:12 [notice] 35#35: exiting
+2025/01/30 11:28:12 [notice] 33#33: exit
+2025/01/30 11:28:12 [notice] 29#29: exit
+2025/01/30 11:28:12 [notice] 32#32: exit
+2025/01/30 11:28:12 [notice] 34#34: exiting
+2025/01/30 11:28:12 [notice] 30#30: exiting
+2025/01/30 11:28:12 [notice] 30#30: exit
+2025/01/30 11:28:12 [notice] 31#31: exiting
+2025/01/30 11:28:12 [notice] 35#35: exit
+2025/01/30 11:28:12 [notice] 34#34: exit
+2025/01/30 11:28:12 [notice] 31#31: exit
+2025/01/30 11:28:12 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2025/01/30 11:28:12 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 11:28:12 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:28:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2025/01/30 11:28:12 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 11:28:12 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 11:28:12 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 11:28:12 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 11:28:12 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 11:28:12 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 11:28:12 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:28:12 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 11:28:12 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 11:28:12 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 11:28:12 [notice] 1#1: exit
+2025/01/30 11:28:25 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:28:26 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:28:26 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:28:27 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:28:28 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:28:30 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:28:33 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:28:40 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:28:53 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:29:19 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:30:11 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:32:30 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:32:30 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:32:31 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:32:31 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:32:32 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:32:34 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:32:38 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:32:44 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:32:57 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:33:23 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:34:15 [emerg] 1#1: "add_header" directive is not allowed here in /etc/nginx/conf.d/default.conf:7
+2025/01/30 11:34:54 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:34:54 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:34:54 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:34:54 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:34:54 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:34:54 [notice] 1#1: start worker processes
+2025/01/30 11:34:54 [notice] 1#1: start worker process 28
+2025/01/30 11:34:54 [notice] 1#1: start worker process 29
+2025/01/30 11:34:54 [notice] 1#1: start worker process 30
+2025/01/30 11:34:54 [notice] 1#1: start worker process 31
+2025/01/30 11:34:54 [notice] 1#1: start worker process 32
+2025/01/30 11:34:54 [notice] 1#1: start worker process 33
+2025/01/30 11:34:54 [notice] 1#1: start worker process 34
+2025/01/30 11:34:54 [notice] 1#1: start worker process 35
+2025/01/30 11:35:27 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 11:35:27 [notice] 28#28: gracefully shutting down
+2025/01/30 11:35:27 [notice] 31#31: gracefully shutting down
+2025/01/30 11:35:27 [notice] 29#29: gracefully shutting down
+2025/01/30 11:35:27 [notice] 34#34: gracefully shutting down
+2025/01/30 11:35:27 [notice] 33#33: gracefully shutting down
+2025/01/30 11:35:27 [notice] 31#31: exiting
+2025/01/30 11:35:27 [notice] 30#30: gracefully shutting down
+2025/01/30 11:35:27 [notice] 32#32: gracefully shutting down
+2025/01/30 11:35:27 [notice] 35#35: gracefully shutting down
+2025/01/30 11:35:27 [notice] 29#29: exiting
+2025/01/30 11:35:27 [notice] 28#28: exiting
+2025/01/30 11:35:27 [notice] 31#31: exit
+2025/01/30 11:35:27 [notice] 33#33: exiting
+2025/01/30 11:35:27 [notice] 34#34: exiting
+2025/01/30 11:35:27 [notice] 29#29: exit
+2025/01/30 11:35:27 [notice] 28#28: exit
+2025/01/30 11:35:27 [notice] 32#32: exiting
+2025/01/30 11:35:27 [notice] 30#30: exiting
+2025/01/30 11:35:27 [notice] 35#35: exiting
+2025/01/30 11:35:27 [notice] 30#30: exit
+2025/01/30 11:35:27 [notice] 33#33: exit
+2025/01/30 11:35:27 [notice] 34#34: exit
+2025/01/30 11:35:27 [notice] 32#32: exit
+2025/01/30 11:35:27 [notice] 35#35: exit
+2025/01/30 11:35:27 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 11:35:27 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 11:35:27 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 11:35:27 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 11:35:27 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 11:35:27 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 11:35:27 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 11:35:27 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 11:35:27 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:35:27 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 11:35:27 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2025/01/30 11:35:27 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 11:35:27 [notice] 1#1: exit
+2025/01/30 11:35:39 [emerg] 1#1: duplicate location "/" in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:35:40 [emerg] 1#1: duplicate location "/" in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:35:40 [emerg] 1#1: duplicate location "/" in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:35:41 [emerg] 1#1: duplicate location "/" in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:35:42 [emerg] 1#1: duplicate location "/" in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:35:44 [emerg] 1#1: duplicate location "/" in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:35:47 [emerg] 1#1: duplicate location "/" in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:35:54 [emerg] 1#1: duplicate location "/" in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:36:07 [emerg] 1#1: duplicate location "/" in /etc/nginx/conf.d/default.conf:13
+2025/01/30 11:36:42 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:36:42 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:36:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:36:42 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:36:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:36:42 [notice] 1#1: start worker processes
+2025/01/30 11:36:42 [notice] 1#1: start worker process 28
+2025/01/30 11:36:42 [notice] 1#1: start worker process 29
+2025/01/30 11:36:42 [notice] 1#1: start worker process 30
+2025/01/30 11:36:42 [notice] 1#1: start worker process 31
+2025/01/30 11:36:42 [notice] 1#1: start worker process 32
+2025/01/30 11:36:42 [notice] 1#1: start worker process 33
+2025/01/30 11:36:42 [notice] 1#1: start worker process 34
+2025/01/30 11:36:42 [notice] 1#1: start worker process 35
+2025/01/30 11:37:08 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:40:33 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 11:40:33 [notice] 28#28: gracefully shutting down
+2025/01/30 11:40:33 [notice] 28#28: exiting
+2025/01/30 11:40:33 [notice] 29#29: gracefully shutting down
+2025/01/30 11:40:33 [notice] 29#29: exiting
+2025/01/30 11:40:33 [notice] 28#28: exit
+2025/01/30 11:40:33 [notice] 30#30: gracefully shutting down
+2025/01/30 11:40:33 [notice] 29#29: exit
+2025/01/30 11:40:33 [notice] 32#32: gracefully shutting down
+2025/01/30 11:40:33 [notice] 34#34: gracefully shutting down
+2025/01/30 11:40:33 [notice] 31#31: gracefully shutting down
+2025/01/30 11:40:33 [notice] 33#33: gracefully shutting down
+2025/01/30 11:40:33 [notice] 35#35: gracefully shutting down
+2025/01/30 11:40:33 [notice] 30#30: exiting
+2025/01/30 11:40:33 [notice] 32#32: exiting
+2025/01/30 11:40:33 [notice] 30#30: exit
+2025/01/30 11:40:33 [notice] 34#34: exiting
+2025/01/30 11:40:33 [notice] 33#33: exiting
+2025/01/30 11:40:33 [notice] 34#34: exit
+2025/01/30 11:40:33 [notice] 31#31: exiting
+2025/01/30 11:40:33 [notice] 32#32: exit
+2025/01/30 11:40:33 [notice] 33#33: exit
+2025/01/30 11:40:33 [notice] 35#35: exiting
+2025/01/30 11:40:33 [notice] 31#31: exit
+2025/01/30 11:40:33 [notice] 35#35: exit
+2025/01/30 11:40:33 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2025/01/30 11:40:33 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 11:40:33 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 11:40:33 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 11:40:33 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 11:40:33 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 11:40:33 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 11:40:33 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 11:40:33 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 11:40:33 [notice] 1#1: exit
+2025/01/30 11:40:45 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:40:45 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:40:45 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:40:45 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:40:45 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:40:45 [notice] 1#1: start worker processes
+2025/01/30 11:40:45 [notice] 1#1: start worker process 28
+2025/01/30 11:40:45 [notice] 1#1: start worker process 29
+2025/01/30 11:40:45 [notice] 1#1: start worker process 30
+2025/01/30 11:40:45 [notice] 1#1: start worker process 31
+2025/01/30 11:40:45 [notice] 1#1: start worker process 32
+2025/01/30 11:40:45 [notice] 1#1: start worker process 33
+2025/01/30 11:40:45 [notice] 1#1: start worker process 34
+2025/01/30 11:40:45 [notice] 1#1: start worker process 35
+2025/01/30 11:42:06 [error] 28#28: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 11:44:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 11:44:24 [notice] 29#29: gracefully shutting down
+2025/01/30 11:44:24 [notice] 28#28: gracefully shutting down
+2025/01/30 11:44:24 [notice] 31#31: gracefully shutting down
+2025/01/30 11:44:24 [notice] 30#30: gracefully shutting down
+2025/01/30 11:44:24 [notice] 32#32: gracefully shutting down
+2025/01/30 11:44:24 [notice] 33#33: gracefully shutting down
+2025/01/30 11:44:24 [notice] 35#35: gracefully shutting down
+2025/01/30 11:44:24 [notice] 34#34: gracefully shutting down
+2025/01/30 11:44:24 [notice] 29#29: exiting
+2025/01/30 11:44:24 [notice] 31#31: exiting
+2025/01/30 11:44:24 [notice] 28#28: exiting
+2025/01/30 11:44:24 [notice] 30#30: exiting
+2025/01/30 11:44:24 [notice] 32#32: exiting
+2025/01/30 11:44:24 [notice] 31#31: exit
+2025/01/30 11:44:24 [notice] 35#35: exiting
+2025/01/30 11:44:24 [notice] 29#29: exit
+2025/01/30 11:44:24 [notice] 28#28: exit
+2025/01/30 11:44:24 [notice] 32#32: exit
+2025/01/30 11:44:24 [notice] 33#33: exiting
+2025/01/30 11:44:24 [notice] 30#30: exit
+2025/01/30 11:44:24 [notice] 34#34: exiting
+2025/01/30 11:44:24 [notice] 35#35: exit
+2025/01/30 11:44:24 [notice] 33#33: exit
+2025/01/30 11:44:24 [notice] 34#34: exit
+2025/01/30 11:44:24 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 11:44:24 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 11:44:24 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 11:44:24 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 11:44:24 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 11:44:24 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:44:24 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2025/01/30 11:44:24 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 11:44:24 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 11:44:24 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:44:24 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 11:44:24 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 11:44:24 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 11:44:24 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2025/01/30 11:44:24 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:44:24 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2025/01/30 11:44:24 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 11:44:24 [notice] 1#1: exit
+2025/01/30 11:44:36 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:44:36 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:44:36 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:44:36 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:44:36 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:44:36 [notice] 1#1: start worker processes
+2025/01/30 11:44:36 [notice] 1#1: start worker process 28
+2025/01/30 11:44:36 [notice] 1#1: start worker process 29
+2025/01/30 11:44:36 [notice] 1#1: start worker process 30
+2025/01/30 11:44:36 [notice] 1#1: start worker process 31
+2025/01/30 11:44:36 [notice] 1#1: start worker process 32
+2025/01/30 11:44:36 [notice] 1#1: start worker process 33
+2025/01/30 11:44:36 [notice] 1#1: start worker process 34
+2025/01/30 11:44:36 [notice] 1#1: start worker process 35
+2025/01/30 11:45:01 [error] 28#28: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 11:45:02 [error] 28#28: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:45:03 [error] 28#28: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 11:45:03 [error] 28#28: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:45:04 [error] 28#28: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 11:45:04 [error] 28#28: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:45:08 [error] 31#31: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 11:45:09 [error] 31#31: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:45:09 [error] 31#31: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 11:45:09 [error] 31#31: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:45:10 [error] 31#31: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 11:45:10 [error] 31#31: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:45:10 [error] 31#31: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 11:45:11 [error] 31#31: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:45:58 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 11:45:58 [notice] 31#31: gracefully shutting down
+2025/01/30 11:45:58 [notice] 28#28: gracefully shutting down
+2025/01/30 11:45:58 [notice] 29#29: gracefully shutting down
+2025/01/30 11:45:58 [notice] 33#33: gracefully shutting down
+2025/01/30 11:45:58 [notice] 32#32: gracefully shutting down
+2025/01/30 11:45:58 [notice] 30#30: gracefully shutting down
+2025/01/30 11:45:58 [notice] 34#34: gracefully shutting down
+2025/01/30 11:45:58 [notice] 29#29: exiting
+2025/01/30 11:45:58 [notice] 31#31: exiting
+2025/01/30 11:45:58 [notice] 35#35: gracefully shutting down
+2025/01/30 11:45:58 [notice] 28#28: exiting
+2025/01/30 11:45:58 [notice] 30#30: exiting
+2025/01/30 11:45:58 [notice] 29#29: exit
+2025/01/30 11:45:58 [notice] 30#30: exit
+2025/01/30 11:45:58 [notice] 34#34: exiting
+2025/01/30 11:45:58 [notice] 28#28: exit
+2025/01/30 11:45:58 [notice] 32#32: exiting
+2025/01/30 11:45:58 [notice] 33#33: exiting
+2025/01/30 11:45:58 [notice] 31#31: exit
+2025/01/30 11:45:58 [notice] 35#35: exiting
+2025/01/30 11:45:58 [notice] 34#34: exit
+2025/01/30 11:45:58 [notice] 33#33: exit
+2025/01/30 11:45:58 [notice] 32#32: exit
+2025/01/30 11:45:58 [notice] 35#35: exit
+2025/01/30 11:45:58 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 11:45:58 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 11:45:58 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:45:59 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 11:45:59 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 11:45:59 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 11:45:59 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 11:45:59 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 11:45:59 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 11:45:59 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:45:59 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2025/01/30 11:45:59 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 11:45:59 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:45:59 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2025/01/30 11:45:59 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2025/01/30 11:45:59 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 11:45:59 [notice] 1#1: exit
+2025/01/30 11:46:12 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:46:12 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:46:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:46:12 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:46:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:46:12 [notice] 1#1: start worker processes
+2025/01/30 11:46:12 [notice] 1#1: start worker process 28
+2025/01/30 11:46:12 [notice] 1#1: start worker process 29
+2025/01/30 11:46:12 [notice] 1#1: start worker process 30
+2025/01/30 11:46:12 [notice] 1#1: start worker process 31
+2025/01/30 11:46:12 [notice] 1#1: start worker process 32
+2025/01/30 11:46:12 [notice] 1#1: start worker process 33
+2025/01/30 11:46:12 [notice] 1#1: start worker process 34
+2025/01/30 11:46:12 [notice] 1#1: start worker process 35
+2025/01/30 11:46:27 [error] 29#29: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:46:28 [error] 29#29: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:46:28 [error] 29#29: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:46:29 [error] 29#29: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:46:29 [error] 29#29: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:46:30 [error] 29#29: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:46:30 [error] 29#29: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:46:31 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:46:31 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:46:31 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:46:32 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:46:32 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:46:33 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:46:33 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:46:33 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:46:34 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:46:34 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:3000/", host: "localhost"
+2025/01/30 11:46:35 [error] 32#32: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:47:55 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 11:47:55 [notice] 32#32: gracefully shutting down
+2025/01/30 11:47:55 [notice] 31#31: gracefully shutting down
+2025/01/30 11:47:55 [notice] 33#33: gracefully shutting down
+2025/01/30 11:47:55 [notice] 35#35: gracefully shutting down
+2025/01/30 11:47:55 [notice] 34#34: gracefully shutting down
+2025/01/30 11:47:55 [notice] 30#30: gracefully shutting down
+2025/01/30 11:47:55 [notice] 33#33: exiting
+2025/01/30 11:47:55 [notice] 28#28: gracefully shutting down
+2025/01/30 11:47:55 [notice] 29#29: gracefully shutting down
+2025/01/30 11:47:55 [notice] 30#30: exiting
+2025/01/30 11:47:55 [notice] 32#32: exiting
+2025/01/30 11:47:55 [notice] 30#30: exit
+2025/01/30 11:47:55 [notice] 31#31: exiting
+2025/01/30 11:47:55 [notice] 31#31: exit
+2025/01/30 11:47:55 [notice] 35#35: exiting
+2025/01/30 11:47:55 [notice] 34#34: exiting
+2025/01/30 11:47:55 [notice] 33#33: exit
+2025/01/30 11:47:55 [notice] 29#29: exiting
+2025/01/30 11:47:55 [notice] 28#28: exiting
+2025/01/30 11:47:55 [notice] 32#32: exit
+2025/01/30 11:47:55 [notice] 35#35: exit
+2025/01/30 11:47:55 [notice] 34#34: exit
+2025/01/30 11:47:55 [notice] 29#29: exit
+2025/01/30 11:47:55 [notice] 28#28: exit
+2025/01/30 11:47:55 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2025/01/30 11:47:55 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 11:47:55 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 11:47:55 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 11:47:55 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:47:55 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 11:47:55 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 11:47:55 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:47:55 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 11:47:55 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2025/01/30 11:47:55 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 11:47:55 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 11:47:55 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 11:47:55 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 11:47:55 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2025/01/30 11:47:55 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2025/01/30 11:47:55 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 11:47:55 [notice] 1#1: exit
+2025/01/30 11:48:08 [notice] 1#1: using the "epoll" event method
+2025/01/30 11:48:08 [notice] 1#1: nginx/1.25.3
+2025/01/30 11:48:08 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 11:48:08 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 11:48:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 11:48:08 [notice] 1#1: start worker processes
+2025/01/30 11:48:08 [notice] 1#1: start worker process 28
+2025/01/30 11:48:08 [notice] 1#1: start worker process 29
+2025/01/30 11:48:08 [notice] 1#1: start worker process 30
+2025/01/30 11:48:08 [notice] 1#1: start worker process 31
+2025/01/30 11:48:08 [notice] 1#1: start worker process 32
+2025/01/30 11:48:08 [notice] 1#1: start worker process 33
+2025/01/30 11:48:08 [notice] 1#1: start worker process 34
+2025/01/30 11:48:08 [notice] 1#1: start worker process 35
+2025/01/30 11:48:21 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:22 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:22 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:23 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:23 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:24 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:24 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:24 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:24 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:25 [error] 28#28: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:25 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:26 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:26 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:26 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:27 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:27 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:27 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:28 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:28 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:29 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:29 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:30 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:30 [error] 30#30: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:31 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:31 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:31 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:32 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:33 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:33 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:33 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 11:48:34 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 11:48:34 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 15:00:15 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 15:00:15 [notice] 29#29: gracefully shutting down
+2025/01/30 15:00:15 [notice] 33#33: gracefully shutting down
+2025/01/30 15:00:15 [notice] 28#28: gracefully shutting down
+2025/01/30 15:00:15 [notice] 30#30: gracefully shutting down
+2025/01/30 15:00:15 [notice] 31#31: gracefully shutting down
+2025/01/30 15:00:15 [notice] 35#35: gracefully shutting down
+2025/01/30 15:00:15 [notice] 33#33: exiting
+2025/01/30 15:00:15 [notice] 29#29: exiting
+2025/01/30 15:00:15 [notice] 31#31: exiting
+2025/01/30 15:00:15 [notice] 32#32: gracefully shutting down
+2025/01/30 15:00:15 [notice] 34#34: gracefully shutting down
+2025/01/30 15:00:15 [notice] 30#30: exiting
+2025/01/30 15:00:15 [notice] 28#28: exiting
+2025/01/30 15:00:15 [notice] 35#35: exiting
+2025/01/30 15:00:15 [notice] 31#31: exit
+2025/01/30 15:00:15 [notice] 29#29: exit
+2025/01/30 15:00:15 [notice] 33#33: exit
+2025/01/30 15:00:15 [notice] 30#30: exit
+2025/01/30 15:00:15 [notice] 34#34: exiting
+2025/01/30 15:00:15 [notice] 28#28: exit
+2025/01/30 15:00:15 [notice] 35#35: exit
+2025/01/30 15:00:15 [notice] 32#32: exiting
+2025/01/30 15:00:15 [notice] 34#34: exit
+2025/01/30 15:00:15 [notice] 32#32: exit
+2025/01/30 15:00:15 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2025/01/30 15:00:15 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 15:00:15 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 15:00:15 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:00:15 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 15:00:15 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 15:00:15 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 15:00:15 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 15:00:15 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 15:00:15 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 15:00:15 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:00:15 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 15:00:15 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2025/01/30 15:00:15 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 15:00:15 [notice] 1#1: exit
+2025/01/30 15:00:28 [notice] 1#1: using the "epoll" event method
+2025/01/30 15:00:28 [notice] 1#1: nginx/1.25.3
+2025/01/30 15:00:28 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 15:00:28 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 15:00:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 15:00:28 [notice] 1#1: start worker processes
+2025/01/30 15:00:28 [notice] 1#1: start worker process 28
+2025/01/30 15:00:28 [notice] 1#1: start worker process 29
+2025/01/30 15:00:28 [notice] 1#1: start worker process 30
+2025/01/30 15:00:28 [notice] 1#1: start worker process 31
+2025/01/30 15:00:28 [notice] 1#1: start worker process 32
+2025/01/30 15:00:28 [notice] 1#1: start worker process 33
+2025/01/30 15:00:28 [notice] 1#1: start worker process 34
+2025/01/30 15:00:28 [notice] 1#1: start worker process 35
+2025/01/30 15:00:48 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.5:3000/ws", host: "localhost:3000"
+2025/01/30 15:00:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 15:00:56 [notice] 32#32: gracefully shutting down
+2025/01/30 15:00:56 [notice] 30#30: gracefully shutting down
+2025/01/30 15:00:56 [notice] 33#33: gracefully shutting down
+2025/01/30 15:00:56 [notice] 29#29: gracefully shutting down
+2025/01/30 15:00:56 [notice] 34#34: gracefully shutting down
+2025/01/30 15:00:56 [notice] 28#28: gracefully shutting down
+2025/01/30 15:00:56 [notice] 31#31: gracefully shutting down
+2025/01/30 15:00:56 [notice] 35#35: gracefully shutting down
+2025/01/30 15:00:56 [notice] 33#33: exiting
+2025/01/30 15:00:56 [notice] 29#29: exiting
+2025/01/30 15:00:56 [notice] 30#30: exiting
+2025/01/30 15:00:56 [notice] 32#32: exiting
+2025/01/30 15:00:56 [notice] 28#28: exiting
+2025/01/30 15:00:56 [notice] 34#34: exiting
+2025/01/30 15:00:56 [notice] 31#31: exiting
+2025/01/30 15:00:56 [notice] 32#32: exit
+2025/01/30 15:00:56 [notice] 35#35: exiting
+2025/01/30 15:00:56 [notice] 30#30: exit
+2025/01/30 15:00:56 [notice] 33#33: exit
+2025/01/30 15:00:56 [notice] 29#29: exit
+2025/01/30 15:00:56 [notice] 28#28: exit
+2025/01/30 15:00:56 [notice] 34#34: exit
+2025/01/30 15:00:56 [notice] 31#31: exit
+2025/01/30 15:00:56 [notice] 35#35: exit
+2025/01/30 15:00:56 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2025/01/30 15:00:56 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 15:00:56 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 15:00:56 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 15:00:56 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:00:56 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 15:00:56 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 15:00:56 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 15:00:56 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 15:00:56 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 15:00:56 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 15:00:56 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:00:56 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 15:00:56 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 15:00:56 [notice] 1#1: exit
+2025/01/30 15:01:07 [notice] 1#1: using the "epoll" event method
+2025/01/30 15:01:07 [notice] 1#1: nginx/1.25.3
+2025/01/30 15:01:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 15:01:07 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 15:01:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 15:01:07 [notice] 1#1: start worker processes
+2025/01/30 15:01:07 [notice] 1#1: start worker process 28
+2025/01/30 15:01:07 [notice] 1#1: start worker process 29
+2025/01/30 15:01:07 [notice] 1#1: start worker process 30
+2025/01/30 15:01:07 [notice] 1#1: start worker process 31
+2025/01/30 15:01:07 [notice] 1#1: start worker process 32
+2025/01/30 15:01:07 [notice] 1#1: start worker process 33
+2025/01/30 15:01:07 [notice] 1#1: start worker process 34
+2025/01/30 15:01:07 [notice] 1#1: start worker process 35
+2025/01/30 15:32:33 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 15:32:33 [notice] 31#31: gracefully shutting down
+2025/01/30 15:32:33 [notice] 35#35: gracefully shutting down
+2025/01/30 15:32:33 [notice] 30#30: gracefully shutting down
+2025/01/30 15:32:33 [notice] 32#32: gracefully shutting down
+2025/01/30 15:32:33 [notice] 33#33: gracefully shutting down
+2025/01/30 15:32:33 [notice] 28#28: gracefully shutting down
+2025/01/30 15:32:33 [notice] 34#34: gracefully shutting down
+2025/01/30 15:32:33 [notice] 29#29: gracefully shutting down
+2025/01/30 15:32:33 [notice] 35#35: exiting
+2025/01/30 15:32:33 [notice] 31#31: exiting
+2025/01/30 15:32:33 [notice] 32#32: exiting
+2025/01/30 15:32:33 [notice] 28#28: exiting
+2025/01/30 15:32:33 [notice] 30#30: exiting
+2025/01/30 15:32:33 [notice] 33#33: exiting
+2025/01/30 15:32:33 [notice] 34#34: exiting
+2025/01/30 15:32:33 [notice] 29#29: exiting
+2025/01/30 15:32:33 [notice] 32#32: exit
+2025/01/30 15:32:33 [notice] 28#28: exit
+2025/01/30 15:32:33 [notice] 31#31: exit
+2025/01/30 15:32:33 [notice] 35#35: exit
+2025/01/30 15:32:33 [notice] 30#30: exit
+2025/01/30 15:32:33 [notice] 33#33: exit
+2025/01/30 15:32:33 [notice] 34#34: exit
+2025/01/30 15:32:33 [notice] 29#29: exit
+2025/01/30 15:32:33 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2025/01/30 15:32:33 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 15:32:33 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 15:32:33 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 15:32:33 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 15:32:33 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 15:32:33 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 15:32:33 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 15:32:33 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:32:33 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2025/01/30 15:32:33 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2025/01/30 15:32:33 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 15:32:33 [notice] 1#1: exit
+2025/01/30 15:32:46 [notice] 1#1: using the "epoll" event method
+2025/01/30 15:32:46 [notice] 1#1: nginx/1.25.3
+2025/01/30 15:32:46 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 15:32:46 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 15:32:46 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 15:32:46 [notice] 1#1: start worker processes
+2025/01/30 15:32:46 [notice] 1#1: start worker process 28
+2025/01/30 15:32:46 [notice] 1#1: start worker process 29
+2025/01/30 15:32:46 [notice] 1#1: start worker process 30
+2025/01/30 15:32:46 [notice] 1#1: start worker process 31
+2025/01/30 15:32:46 [notice] 1#1: start worker process 32
+2025/01/30 15:32:46 [notice] 1#1: start worker process 33
+2025/01/30 15:32:46 [notice] 1#1: start worker process 34
+2025/01/30 15:32:46 [notice] 1#1: start worker process 35
+2025/01/30 15:33:04 [error] 29#29: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 15:33:05 [error] 29#29: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 15:33:11 [error] 30#30: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 15:33:12 [error] 30#30: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 15:33:18 [error] 32#32: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 15:33:18 [error] 32#32: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 15:46:53 [warn] 30#30: *188 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:49:37 [warn] 32#32: *190 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:49:54 [warn] 33#33: *205 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:50:34 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 15:50:34 [notice] 29#29: gracefully shutting down
+2025/01/30 15:50:34 [notice] 32#32: gracefully shutting down
+2025/01/30 15:50:34 [notice] 33#33: gracefully shutting down
+2025/01/30 15:50:34 [notice] 35#35: gracefully shutting down
+2025/01/30 15:50:34 [notice] 31#31: gracefully shutting down
+2025/01/30 15:50:34 [notice] 30#30: gracefully shutting down
+2025/01/30 15:50:34 [notice] 34#34: gracefully shutting down
+2025/01/30 15:50:34 [notice] 35#35: exiting
+2025/01/30 15:50:34 [notice] 28#28: gracefully shutting down
+2025/01/30 15:50:34 [notice] 32#32: exiting
+2025/01/30 15:50:34 [notice] 33#33: exiting
+2025/01/30 15:50:34 [notice] 30#30: exiting
+2025/01/30 15:50:34 [notice] 34#34: exiting
+2025/01/30 15:50:34 [notice] 31#31: exiting
+2025/01/30 15:50:34 [notice] 35#35: exit
+2025/01/30 15:50:34 [notice] 31#31: exit
+2025/01/30 15:50:34 [notice] 30#30: exit
+2025/01/30 15:50:34 [notice] 33#33: exit
+2025/01/30 15:50:34 [notice] 32#32: exit
+2025/01/30 15:50:34 [notice] 34#34: exit
+2025/01/30 15:50:34 [notice] 28#28: exiting
+2025/01/30 15:50:34 [notice] 28#28: exit
+2025/01/30 15:50:34 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 15:50:34 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 15:50:34 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 15:50:34 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 15:50:34 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 15:50:34 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:50:34 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 15:50:34 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 15:50:34 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 15:50:34 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 15:50:34 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 15:50:34 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:50:34 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2025/01/30 15:50:50 [notice] 1#1: using the "epoll" event method
+2025/01/30 15:50:50 [notice] 1#1: nginx/1.25.3
+2025/01/30 15:50:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 15:50:50 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 15:50:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 15:50:50 [notice] 1#1: start worker processes
+2025/01/30 15:50:50 [notice] 1#1: start worker process 28
+2025/01/30 15:50:50 [notice] 1#1: start worker process 29
+2025/01/30 15:50:50 [notice] 1#1: start worker process 30
+2025/01/30 15:50:50 [notice] 1#1: start worker process 31
+2025/01/30 15:50:50 [notice] 1#1: start worker process 32
+2025/01/30 15:50:50 [notice] 1#1: start worker process 33
+2025/01/30 15:50:50 [notice] 1#1: start worker process 34
+2025/01/30 15:50:50 [notice] 1#1: start worker process 35
+2025/01/30 15:50:52 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.2:3000/ws", host: "localhost:3000"
+2025/01/30 15:51:00 [error] 29#29: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.2:3000/ws", host: "localhost:3000"
+2025/01/30 15:51:16 [error] 30#30: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.2:3000/ws", host: "localhost:3000"
+2025/01/30 15:51:18 [error] 29#29: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 15:51:19 [error] 29#29: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 15:51:21 [error] 29#29: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 15:51:21 [error] 29#29: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 15:51:22 [error] 29#29: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.2:3000/", host: "localhost"
+2025/01/30 15:51:23 [error] 29#29: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.2:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 15:51:47 [warn] 28#28: *48 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:51:47 [error] 28#28: *48 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.3:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:52:28 [warn] 29#29: *50 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:52:28 [error] 29#29: *50 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.3:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:53:08 [warn] 30#30: *52 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:53:48 [warn] 31#31: *54 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:57:29 [warn] 32#32: *56 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 15:57:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 15:57:54 [notice] 29#29: gracefully shutting down
+2025/01/30 15:57:54 [notice] 32#32: gracefully shutting down
+2025/01/30 15:57:54 [notice] 28#28: gracefully shutting down
+2025/01/30 15:57:54 [notice] 31#31: gracefully shutting down
+2025/01/30 15:57:54 [notice] 33#33: gracefully shutting down
+2025/01/30 15:57:54 [notice] 30#30: gracefully shutting down
+2025/01/30 15:57:54 [notice] 35#35: gracefully shutting down
+2025/01/30 15:57:54 [notice] 34#34: gracefully shutting down
+2025/01/30 15:57:54 [notice] 29#29: exiting
+2025/01/30 15:57:54 [notice] 31#31: exiting
+2025/01/30 15:57:54 [notice] 30#30: exiting
+2025/01/30 15:57:54 [notice] 35#35: exiting
+2025/01/30 15:57:54 [notice] 31#31: exit
+2025/01/30 15:57:54 [notice] 33#33: exiting
+2025/01/30 15:57:54 [notice] 35#35: exit
+2025/01/30 15:57:54 [notice] 29#29: exit
+2025/01/30 15:57:54 [notice] 30#30: exit
+2025/01/30 15:57:54 [notice] 28#28: exiting
+2025/01/30 15:57:54 [notice] 33#33: exit
+2025/01/30 15:57:54 [notice] 28#28: exit
+2025/01/30 15:57:54 [notice] 34#34: exiting
+2025/01/30 15:57:54 [notice] 34#34: exit
+2025/01/30 15:57:54 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 15:57:54 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 15:57:54 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 15:57:54 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:57:54 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2025/01/30 15:57:54 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 15:57:54 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 15:57:54 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 15:57:54 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:57:54 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 15:57:54 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 15:57:54 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 15:57:54 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:57:54 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2025/01/30 15:57:54 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 15:57:54 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 15:58:08 [notice] 1#1: using the "epoll" event method
+2025/01/30 15:58:08 [notice] 1#1: nginx/1.25.3
+2025/01/30 15:58:08 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 15:58:08 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 15:58:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 15:58:08 [notice] 1#1: start worker processes
+2025/01/30 15:58:08 [notice] 1#1: start worker process 28
+2025/01/30 15:58:08 [notice] 1#1: start worker process 29
+2025/01/30 15:58:08 [notice] 1#1: start worker process 30
+2025/01/30 15:58:08 [notice] 1#1: start worker process 31
+2025/01/30 15:58:08 [notice] 1#1: start worker process 32
+2025/01/30 15:58:08 [notice] 1#1: start worker process 33
+2025/01/30 15:58:08 [notice] 1#1: start worker process 34
+2025/01/30 15:58:08 [notice] 1#1: start worker process 35
+2025/01/30 15:58:11 [error] 30#30: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.4:3000/ws", host: "localhost:3000"
+2025/01/30 15:58:19 [error] 28#28: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.4:3000/ws", host: "localhost:3000"
+2025/01/30 15:58:35 [error] 31#31: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.4:3000/ws", host: "localhost:3000"
+2025/01/30 15:59:11 [error] 30#30: *21 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.3:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:00:33 [warn] 28#28: *52 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:02:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 16:02:07 [notice] 30#30: gracefully shutting down
+2025/01/30 16:02:07 [notice] 33#33: gracefully shutting down
+2025/01/30 16:02:07 [notice] 29#29: gracefully shutting down
+2025/01/30 16:02:07 [notice] 31#31: gracefully shutting down
+2025/01/30 16:02:07 [notice] 35#35: gracefully shutting down
+2025/01/30 16:02:07 [notice] 28#28: gracefully shutting down
+2025/01/30 16:02:07 [notice] 32#32: gracefully shutting down
+2025/01/30 16:02:07 [notice] 34#34: gracefully shutting down
+2025/01/30 16:02:07 [notice] 33#33: exiting
+2025/01/30 16:02:07 [notice] 30#30: exiting
+2025/01/30 16:02:07 [notice] 31#31: exiting
+2025/01/30 16:02:07 [notice] 29#29: exiting
+2025/01/30 16:02:07 [notice] 30#30: exit
+2025/01/30 16:02:07 [notice] 28#28: exiting
+2025/01/30 16:02:07 [notice] 33#33: exit
+2025/01/30 16:02:07 [notice] 29#29: exit
+2025/01/30 16:02:07 [notice] 31#31: exit
+2025/01/30 16:02:07 [notice] 34#34: exiting
+2025/01/30 16:02:07 [notice] 34#34: exit
+2025/01/30 16:02:07 [notice] 28#28: exit
+2025/01/30 16:02:07 [notice] 32#32: exiting
+2025/01/30 16:02:07 [notice] 32#32: exit
+2025/01/30 16:02:07 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2025/01/30 16:02:07 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 16:02:07 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 16:02:07 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 16:02:07 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 16:02:07 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 16:02:07 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 16:02:07 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 16:02:07 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 16:02:07 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2025/01/30 16:02:20 [notice] 1#1: using the "epoll" event method
+2025/01/30 16:02:20 [notice] 1#1: nginx/1.25.3
+2025/01/30 16:02:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 16:02:20 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 16:02:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 16:02:20 [notice] 1#1: start worker processes
+2025/01/30 16:02:20 [notice] 1#1: start worker process 28
+2025/01/30 16:02:20 [notice] 1#1: start worker process 29
+2025/01/30 16:02:20 [notice] 1#1: start worker process 30
+2025/01/30 16:02:20 [notice] 1#1: start worker process 31
+2025/01/30 16:02:20 [notice] 1#1: start worker process 32
+2025/01/30 16:02:20 [notice] 1#1: start worker process 33
+2025/01/30 16:02:20 [notice] 1#1: start worker process 34
+2025/01/30 16:02:20 [notice] 1#1: start worker process 35
+2025/01/30 16:02:22 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.3:3000/ws", host: "localhost:3000"
+2025/01/30 16:02:27 [error] 29#29: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.3:3000/ws", host: "localhost:3000"
+2025/01/30 16:02:36 [error] 30#30: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.3:3000/ws", host: "localhost:3000"
+2025/01/30 16:02:47 [error] 28#28: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:02:48 [error] 28#28: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:02:49 [error] 30#30: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:02:49 [error] 30#30: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:02:53 [error] 30#30: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:02:54 [error] 31#31: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:02:56 [error] 31#31: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:02:57 [error] 31#31: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:02:57 [error] 31#31: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:02:58 [error] 31#31: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:02:59 [error] 34#34: *23 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:03:00 [error] 34#34: *23 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:03:01 [error] 34#34: *23 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:03:01 [error] 34#34: *23 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:03:03 [error] 34#34: *23 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:03:03 [error] 34#34: *23 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:03:04 [error] 35#35: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:03:04 [error] 35#35: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:03:06 [error] 35#35: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.3:3000/", host: "localhost"
+2025/01/30 16:03:06 [error] 35#35: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.3:3000/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2025/01/30 16:03:16 [warn] 28#28: *56 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:03:16 [error] 28#28: *56 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:04:41 [warn] 29#29: *71 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:04:41 [error] 29#29: *71 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:04:54 [warn] 30#30: *73 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:04:54 [error] 30#30: *73 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:05:59 [warn] 31#31: *75 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:07:36 [warn] 32#32: *102 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:08:08 [warn] 34#34: *119 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000006, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:08:37 [warn] 33#33: *141 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000007, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:10:42 [warn] 35#35: *143 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000008, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:11:57 [warn] 28#28: *158 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000009, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:13:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 16:13:56 [notice] 28#28: gracefully shutting down
+2025/01/30 16:13:56 [notice] 30#30: gracefully shutting down
+2025/01/30 16:13:56 [notice] 29#29: gracefully shutting down
+2025/01/30 16:13:56 [notice] 31#31: gracefully shutting down
+2025/01/30 16:13:56 [notice] 32#32: gracefully shutting down
+2025/01/30 16:13:56 [notice] 33#33: gracefully shutting down
+2025/01/30 16:13:56 [notice] 35#35: gracefully shutting down
+2025/01/30 16:13:56 [notice] 34#34: gracefully shutting down
+2025/01/30 16:13:56 [notice] 30#30: exiting
+2025/01/30 16:13:56 [notice] 29#29: exiting
+2025/01/30 16:13:56 [notice] 32#32: exiting
+2025/01/30 16:13:56 [notice] 35#35: exiting
+2025/01/30 16:13:56 [notice] 31#31: exiting
+2025/01/30 16:13:56 [notice] 33#33: exiting
+2025/01/30 16:13:56 [notice] 30#30: exit
+2025/01/30 16:13:56 [notice] 31#31: exit
+2025/01/30 16:13:56 [notice] 34#34: exiting
+2025/01/30 16:13:56 [notice] 35#35: exit
+2025/01/30 16:13:56 [notice] 32#32: exit
+2025/01/30 16:13:56 [notice] 29#29: exit
+2025/01/30 16:13:56 [notice] 34#34: exit
+2025/01/30 16:13:56 [notice] 33#33: exit
+2025/01/30 16:13:56 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/30 16:13:56 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 16:13:56 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 16:13:56 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 16:13:56 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 16:13:56 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 16:13:56 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 16:13:56 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 16:13:56 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 16:13:56 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 16:13:56 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 16:13:56 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 16:15:07 [notice] 1#1: using the "epoll" event method
+2025/01/30 16:15:07 [notice] 1#1: nginx/1.25.3
+2025/01/30 16:15:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 16:15:07 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 16:15:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 16:15:07 [notice] 1#1: start worker processes
+2025/01/30 16:15:07 [notice] 1#1: start worker process 28
+2025/01/30 16:15:07 [notice] 1#1: start worker process 29
+2025/01/30 16:15:07 [notice] 1#1: start worker process 30
+2025/01/30 16:15:07 [notice] 1#1: start worker process 31
+2025/01/30 16:15:07 [notice] 1#1: start worker process 32
+2025/01/30 16:15:07 [notice] 1#1: start worker process 33
+2025/01/30 16:15:07 [notice] 1#1: start worker process 34
+2025/01/30 16:15:07 [notice] 1#1: start worker process 35
+2025/01/30 16:15:15 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.2:3000/ws", host: "localhost:3000"
+2025/01/30 16:16:08 [warn] 28#28: *16 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:16:08 [error] 28#28: *16 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.3:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:17:17 [warn] 29#29: *18 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000002, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:18:36 [warn] 30#30: *20 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000003, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:19:28 [warn] 31#31: *35 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000004, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:20:33 [warn] 32#32: *50 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000005, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:20:33 [error] 32#32: *50 upstream prematurely closed connection while reading response header from upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.3:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:20:41 [warn] 33#33: *52 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000006, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:20:45 [error] 33#33: *52 connect() failed (113: No route to host) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.3:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:20:55 [warn] 34#34: *54 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000007, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:20:58 [error] 34#34: *54 connect() failed (113: No route to host) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.3:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:21:46 [warn] 35#35: *56 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000008, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:21:46 [error] 35#35: *56 upstream prematurely closed connection while reading response header from upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.3:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:21:55 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 16:21:55 [notice] 31#31: gracefully shutting down
+2025/01/30 16:21:55 [notice] 33#33: gracefully shutting down
+2025/01/30 16:21:55 [notice] 28#28: gracefully shutting down
+2025/01/30 16:21:55 [notice] 28#28: exiting
+2025/01/30 16:21:55 [notice] 30#30: gracefully shutting down
+2025/01/30 16:21:55 [notice] 32#32: gracefully shutting down
+2025/01/30 16:21:55 [notice] 35#35: gracefully shutting down
+2025/01/30 16:21:55 [notice] 34#34: gracefully shutting down
+2025/01/30 16:21:55 [notice] 29#29: gracefully shutting down
+2025/01/30 16:21:55 [notice] 28#28: exit
+2025/01/30 16:21:55 [notice] 30#30: exiting
+2025/01/30 16:21:55 [notice] 33#33: exiting
+2025/01/30 16:21:55 [notice] 32#32: exiting
+2025/01/30 16:21:55 [notice] 33#33: exit
+2025/01/30 16:21:55 [notice] 35#35: exiting
+2025/01/30 16:21:55 [notice] 34#34: exiting
+2025/01/30 16:21:55 [notice] 35#35: exit
+2025/01/30 16:21:55 [notice] 30#30: exit
+2025/01/30 16:21:55 [notice] 29#29: exiting
+2025/01/30 16:21:55 [notice] 32#32: exit
+2025/01/30 16:21:55 [notice] 34#34: exit
+2025/01/30 16:21:55 [notice] 29#29: exit
+2025/01/30 16:21:55 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2025/01/30 16:21:55 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 16:21:55 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 16:21:55 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 16:21:55 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 16:21:55 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2025/01/30 16:21:55 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/30 16:21:55 [notice] 1#1: worker process 30 exited with code 0
+2025/01/30 16:21:55 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 16:21:55 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 16:21:55 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 16:21:55 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 16:21:55 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/30 16:22:08 [notice] 1#1: using the "epoll" event method
+2025/01/30 16:22:08 [notice] 1#1: nginx/1.25.3
+2025/01/30 16:22:08 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 16:22:08 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 16:22:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 16:22:08 [notice] 1#1: start worker processes
+2025/01/30 16:22:08 [notice] 1#1: start worker process 28
+2025/01/30 16:22:08 [notice] 1#1: start worker process 29
+2025/01/30 16:22:08 [notice] 1#1: start worker process 30
+2025/01/30 16:22:08 [notice] 1#1: start worker process 31
+2025/01/30 16:22:08 [notice] 1#1: start worker process 32
+2025/01/30 16:22:08 [notice] 1#1: start worker process 33
+2025/01/30 16:22:08 [notice] 1#1: start worker process 34
+2025/01/30 16:22:08 [notice] 1#1: start worker process 35
+2025/01/30 16:22:12 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.3:3000/ws", host: "localhost:3000"
+2025/01/30 16:22:20 [error] 29#29: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.3:3000/ws", host: "localhost:3000"
+2025/01/30 16:24:18 [warn] 28#28: *7 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:24:18 [error] 28#28: *7 upstream prematurely closed connection while reading response header from upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:24:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/30 16:24:46 [notice] 30#30: gracefully shutting down
+2025/01/30 16:24:46 [notice] 28#28: gracefully shutting down
+2025/01/30 16:24:46 [notice] 29#29: gracefully shutting down
+2025/01/30 16:24:46 [notice] 33#33: gracefully shutting down
+2025/01/30 16:24:46 [notice] 31#31: gracefully shutting down
+2025/01/30 16:24:46 [notice] 35#35: gracefully shutting down
+2025/01/30 16:24:46 [notice] 32#32: gracefully shutting down
+2025/01/30 16:24:46 [notice] 34#34: gracefully shutting down
+2025/01/30 16:24:46 [notice] 28#28: exiting
+2025/01/30 16:24:46 [notice] 31#31: exiting
+2025/01/30 16:24:46 [notice] 31#31: exit
+2025/01/30 16:24:46 [notice] 28#28: exit
+2025/01/30 16:24:46 [notice] 34#34: exiting
+2025/01/30 16:24:46 [notice] 33#33: exiting
+2025/01/30 16:24:46 [notice] 35#35: exiting
+2025/01/30 16:24:46 [notice] 34#34: exit
+2025/01/30 16:24:46 [notice] 32#32: exiting
+2025/01/30 16:24:46 [notice] 35#35: exit
+2025/01/30 16:24:46 [notice] 29#29: exiting
+2025/01/30 16:24:46 [notice] 33#33: exit
+2025/01/30 16:24:46 [notice] 32#32: exit
+2025/01/30 16:24:46 [notice] 29#29: exit
+2025/01/30 16:24:46 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2025/01/30 16:24:46 [notice] 1#1: worker process 28 exited with code 0
+2025/01/30 16:24:46 [notice] 1#1: worker process 29 exited with code 0
+2025/01/30 16:24:46 [notice] 1#1: worker process 31 exited with code 0
+2025/01/30 16:24:46 [notice] 1#1: worker process 32 exited with code 0
+2025/01/30 16:24:46 [notice] 1#1: worker process 33 exited with code 0
+2025/01/30 16:24:46 [notice] 1#1: worker process 34 exited with code 0
+2025/01/30 16:24:46 [notice] 1#1: worker process 35 exited with code 0
+2025/01/30 16:24:46 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/30 16:24:46 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2025/01/30 16:24:58 [notice] 1#1: using the "epoll" event method
+2025/01/30 16:24:58 [notice] 1#1: nginx/1.25.3
+2025/01/30 16:24:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/30 16:24:58 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/30 16:24:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/30 16:24:58 [notice] 1#1: start worker processes
+2025/01/30 16:24:58 [notice] 1#1: start worker process 28
+2025/01/30 16:24:58 [notice] 1#1: start worker process 29
+2025/01/30 16:24:58 [notice] 1#1: start worker process 30
+2025/01/30 16:24:58 [notice] 1#1: start worker process 31
+2025/01/30 16:24:58 [notice] 1#1: start worker process 32
+2025/01/30 16:24:58 [notice] 1#1: start worker process 33
+2025/01/30 16:24:58 [notice] 1#1: start worker process 34
+2025/01/30 16:24:58 [notice] 1#1: start worker process 35
+2025/01/30 16:24:59 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.4:3000/ws", host: "localhost:3000"
+2025/01/30 16:25:04 [error] 29#29: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.4:3000/ws", host: "localhost:3000"
+2025/01/30 16:25:12 [error] 30#30: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://172.18.0.4:3000/ws", host: "localhost:3000"
+2025/01/30 16:27:12 [error] 28#28: *9 upstream prematurely closed connection while reading response header from upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:27:20 [warn] 29#29: *11 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/30 16:27:22 [error] 29#29: *11 upstream prematurely closed connection while reading response header from upstream, client: 172.18.0.1, server: localhost, request: "POST /transcribe HTTP/1.1", upstream: "http://172.18.0.2:5000/transcribe", host: "localhost:5001", referrer: "http://localhost/"
+2025/01/31 01:46:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2025/01/31 01:46:53 [notice] 33#33: gracefully shutting down
+2025/01/31 01:46:53 [notice] 30#30: gracefully shutting down
+2025/01/31 01:46:53 [notice] 29#29: gracefully shutting down
+2025/01/31 01:46:53 [notice] 31#31: gracefully shutting down
+2025/01/31 01:46:53 [notice] 32#32: gracefully shutting down
+2025/01/31 01:46:53 [notice] 34#34: gracefully shutting down
+2025/01/31 01:46:53 [notice] 28#28: gracefully shutting down
+2025/01/31 01:46:53 [notice] 35#35: gracefully shutting down
+2025/01/31 01:46:53 [notice] 32#32: exiting
+2025/01/31 01:46:53 [notice] 30#30: exiting
+2025/01/31 01:46:53 [notice] 34#34: exiting
+2025/01/31 01:46:53 [notice] 29#29: exiting
+2025/01/31 01:46:53 [notice] 31#31: exiting
+2025/01/31 01:46:53 [notice] 30#30: exit
+2025/01/31 01:46:53 [notice] 28#28: exiting
+2025/01/31 01:46:53 [notice] 34#34: exit
+2025/01/31 01:46:53 [notice] 29#29: exit
+2025/01/31 01:46:53 [notice] 32#32: exit
+2025/01/31 01:46:53 [notice] 35#35: exiting
+2025/01/31 01:46:53 [notice] 35#35: exit
+2025/01/31 01:46:53 [notice] 28#28: exit
+2025/01/31 01:46:53 [notice] 31#31: exit
+2025/01/31 01:46:53 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2025/01/31 01:46:53 [notice] 1#1: worker process 30 exited with code 0
+2025/01/31 01:46:53 [notice] 1#1: worker process 31 exited with code 0
+2025/01/31 01:46:53 [notice] 1#1: worker process 32 exited with code 0
+2025/01/31 01:46:53 [notice] 1#1: worker process 34 exited with code 0
+2025/01/31 01:46:53 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:46:53 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2025/01/31 01:46:53 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2025/01/31 01:46:53 [notice] 1#1: worker process 35 exited with code 0
+2025/01/31 01:46:53 [notice] 1#1: worker process 28 exited with code 0
+2025/01/31 01:46:53 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:46:53 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2025/01/31 01:46:53 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2025/01/31 01:46:53 [notice] 1#1: worker process 29 exited with code 0
+2025/01/31 01:46:53 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:47:03 [notice] 33#33: exiting
+2025/01/31 01:47:03 [notice] 33#33: exit
+2025/01/31 01:47:03 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/31 01:47:03 [notice] 1#1: worker process 33 exited with code 0
+2025/01/31 01:47:03 [notice] 1#1: exit
+2025/01/31 01:47:08 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:47:08 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:47:09 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:47:09 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:47:10 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:47:12 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:47:15 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:47:22 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:47:35 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:48:01 [emerg] 1#1: host not found in upstream "olt-gui" in /etc/nginx/conf.d/default.conf:6
+2025/01/31 01:49:04 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:49:05 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:49:05 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:49:05 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:49:06 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:49:08 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:49:11 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:49:18 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:49:31 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:49:57 [emerg] 1#1: host not found in upstream "olt-ollama" in /etc/nginx/conf.d/default.conf:22
+2025/01/31 01:50:31 [notice] 1#1: using the "epoll" event method
+2025/01/31 01:50:31 [notice] 1#1: nginx/1.25.3
+2025/01/31 01:50:31 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2025/01/31 01:50:31 [notice] 1#1: OS: Linux 6.10.14-linuxkit
+2025/01/31 01:50:31 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2025/01/31 01:50:31 [notice] 1#1: start worker processes
+2025/01/31 01:50:31 [notice] 1#1: start worker process 28
+2025/01/31 01:50:31 [notice] 1#1: start worker process 29
+2025/01/31 01:50:31 [notice] 1#1: start worker process 30
+2025/01/31 01:50:31 [notice] 1#1: start worker process 31
+2025/01/31 01:50:31 [notice] 1#1: start worker process 32
+2025/01/31 01:50:31 [notice] 1#1: start worker process 33
+2025/01/31 01:50:31 [notice] 1#1: start worker process 34
+2025/01/31 01:50:31 [notice] 1#1: start worker process 35
+2025/01/31 01:50:31 [notice] 1#1: start worker process 36
+2025/01/31 01:50:31 [notice] 1#1: start worker process 37
+2025/01/31 01:53:05 [notice] 46#46: signal process started
+2025/01/31 01:53:05 [notice] 1#1: signal 1 (SIGHUP) received from 46, reconfiguring
+2025/01/31 01:53:05 [notice] 1#1: reconfiguring
+2025/01/31 01:53:05 [notice] 1#1: using the "epoll" event method
+2025/01/31 01:53:05 [notice] 1#1: start worker processes
+2025/01/31 01:53:05 [notice] 1#1: start worker process 47
+2025/01/31 01:53:05 [notice] 1#1: start worker process 48
+2025/01/31 01:53:05 [notice] 1#1: start worker process 49
+2025/01/31 01:53:05 [notice] 1#1: start worker process 50
+2025/01/31 01:53:05 [notice] 1#1: start worker process 51
+2025/01/31 01:53:05 [notice] 1#1: start worker process 52
+2025/01/31 01:53:05 [notice] 1#1: start worker process 53
+2025/01/31 01:53:05 [notice] 1#1: start worker process 54
+2025/01/31 01:53:05 [notice] 1#1: start worker process 55
+2025/01/31 01:53:05 [notice] 1#1: start worker process 56
+2025/01/31 01:53:05 [notice] 30#30: gracefully shutting down
+2025/01/31 01:53:05 [notice] 29#29: gracefully shutting down
+2025/01/31 01:53:05 [notice] 28#28: gracefully shutting down
+2025/01/31 01:53:05 [notice] 35#35: gracefully shutting down
+2025/01/31 01:53:05 [notice] 32#32: gracefully shutting down
+2025/01/31 01:53:05 [notice] 36#36: gracefully shutting down
+2025/01/31 01:53:05 [notice] 34#34: gracefully shutting down
+2025/01/31 01:53:05 [notice] 33#33: gracefully shutting down
+2025/01/31 01:53:05 [notice] 37#37: gracefully shutting down
+2025/01/31 01:53:05 [notice] 31#31: gracefully shutting down
+2025/01/31 01:53:05 [notice] 32#32: exiting
+2025/01/31 01:53:05 [notice] 35#35: exiting
+2025/01/31 01:53:05 [notice] 30#30: exiting
+2025/01/31 01:53:05 [notice] 34#34: exiting
+2025/01/31 01:53:05 [notice] 33#33: exiting
+2025/01/31 01:53:05 [notice] 34#34: exit
+2025/01/31 01:53:05 [notice] 29#29: exiting
+2025/01/31 01:53:05 [notice] 35#35: exit
+2025/01/31 01:53:05 [notice] 32#32: exit
+2025/01/31 01:53:05 [notice] 30#30: exit
+2025/01/31 01:53:05 [notice] 37#37: exiting
+2025/01/31 01:53:05 [notice] 36#36: exiting
+2025/01/31 01:53:05 [notice] 33#33: exit
+2025/01/31 01:53:05 [notice] 29#29: exit
+2025/01/31 01:53:05 [notice] 31#31: exiting
+2025/01/31 01:53:05 [notice] 37#37: exit
+2025/01/31 01:53:05 [notice] 36#36: exit
+2025/01/31 01:53:05 [notice] 31#31: exit
+2025/01/31 01:53:05 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2025/01/31 01:53:05 [notice] 1#1: worker process 29 exited with code 0
+2025/01/31 01:53:05 [notice] 1#1: worker process 34 exited with code 0
+2025/01/31 01:53:05 [notice] 1#1: worker process 35 exited with code 0
+2025/01/31 01:53:05 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:53:05 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2025/01/31 01:53:05 [notice] 1#1: worker process 30 exited with code 0
+2025/01/31 01:53:05 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:53:05 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2025/01/31 01:53:05 [notice] 1#1: worker process 31 exited with code 0
+2025/01/31 01:53:05 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:53:05 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2025/01/31 01:53:05 [notice] 1#1: worker process 33 exited with code 0
+2025/01/31 01:53:05 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:53:05 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2025/01/31 01:53:05 [notice] 1#1: worker process 37 exited with code 0
+2025/01/31 01:53:05 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:53:05 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2025/01/31 01:53:05 [notice] 1#1: worker process 32 exited with code 0
+2025/01/31 01:53:05 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:53:05 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2025/01/31 01:53:05 [notice] 1#1: worker process 36 exited with code 0
+2025/01/31 01:53:05 [notice] 1#1: signal 29 (SIGIO) received
+2025/01/31 01:57:01 [notice] 28#28: exiting
+2025/01/31 01:57:01 [notice] 28#28: exit
+2025/01/31 01:57:01 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2025/01/31 01:57:01 [notice] 1#1: worker process 28 exited with code 0
+2025/01/31 01:57:01 [notice] 1#1: signal 29 (SIGIO) received

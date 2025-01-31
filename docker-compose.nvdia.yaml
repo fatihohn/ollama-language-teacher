@@ -1,0 +1,79 @@
+services:
+  nginx:
+    image: nginx:1.25.3
+    container_name: nginx
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./logs/nginx:/var/log/nginx
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/html:/usr/share/nginx/html
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "5"
+    ports:
+      - "80:80"
+      - "11434:11434"
+      - "3000:3000"
+      - "5001:5000"
+      - "443:443"
+    networks:
+      - olt-network
+  ollama:
+    container_name: olt-ollama
+    build:
+      context: ./ollama
+      dockerfile: Dockerfile
+    volumes:
+      - ./ollama:/root/.ollama
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    env_file:
+      - .env
+    networks:
+      - olt-network
+  gui:
+    container_name: olt-gui
+    build:
+      context: ./gui
+      dockerfile: Dockerfile
+    volumes:
+      - ./gui:/app
+    env_file:
+      - .env
+    networks:
+      - olt-network
+  whisper:
+    container_name: olt-whisper
+    build:
+      context: ./whisper
+      dockerfile: Dockerfile
+    volumes:
+      - ./whisper:/app
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+    env_file:
+      - .env
+    restart: unless-stopped
+    networks:
+      - olt-network
+
+networks:
+  olt-network:
+    driver: bridge
