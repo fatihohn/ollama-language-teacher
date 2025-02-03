@@ -116,9 +116,8 @@ export default function ChatApp() {
   };
 
   const handleKeyPress = (e) => {
-    if (e.key === "Enter" && e.shiftKey) {
-      // setInput((prev) => prev + "\n");
-    } else if (e.key === "Enter") {
+    if (e.key === "Enter" && !e.shiftKey) {
+      e.preventDefault();
       sendMessage();
     }
   };
