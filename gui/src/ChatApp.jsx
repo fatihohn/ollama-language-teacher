@@ -32,7 +32,7 @@ export default function ChatApp() {
     setIsThinking(false);
 
     try {
-      const response = await fetch("http://localhost:11434/api/chat", {
+      const response = await fetch(`http://${process.env.REACT_APP_DOMAIN}:11434/api/chat`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -153,7 +153,7 @@ export default function ChatApp() {
     // formData.append("audio", audioBlob, "recording.wav"); // Attach the Blob
 
     try {
-      const response = await fetch("http://localhost:5001/transcribe", {
+      const response = await fetch(`http://${process.env.REACT_APP_DOMAIN}:5001/transcribe`, {
         method: "POST",
         body: formData, // Send FormData instead of JSON
       });
