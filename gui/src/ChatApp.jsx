@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { Card } from "react-bootstrap";
-import { MarkdownRenderer } from "./components/MarkdownRenderer";
+import MarkdownRenderer from "./components/MarkdownRenderer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
