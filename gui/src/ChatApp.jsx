@@ -52,6 +52,7 @@ export default function ChatApp() {
       let messageContent = "";
       let reasoningContent = "";
       let jsonString = "";
+      let spareString = "";
 
       while (!done) {
         const { value, done: doneReading } = await reader.read();
@@ -81,20 +82,24 @@ export default function ChatApp() {
           // });
 
           // messageContent += chunkContent;
-          try {
-            const jsonArray = jsonString
-              .split("\n")
-              .filter((line) => line.trim())
-              .map((line) => JSON.parse(line));
-
-            jsonArray.forEach((data) => {
-              if (data.message?.content) {
-                messageContent += data.message.content;
+          const jsonArray = [spareString, jsonString]
+            .join("")
+            .split("\n")
+            .filter((line) => line.trim())
+            .map((line) => {
+              try {
+                return JSON.parse(line);
+              } catch (e) {
+                spareString += line;
+                return null;
               }
             });
-          } catch (e) {
-            console.error("JSON parsing error:", e);
-          }
+
+          jsonArray.forEach((data) => {
+            if (data?.message?.content) {
+              messageContent += data.message.content;
+            }
+          });
 
           setMessages((prev) => {
             const assistantMessage = {
@@ -104,6 +109,7 @@ export default function ChatApp() {
             };
             return [...prev.slice(0, -1), assistantMessage];
           });
+          spareString = "";
         }
       }
 
