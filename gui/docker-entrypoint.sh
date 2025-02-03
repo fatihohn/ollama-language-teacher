@@ -16,7 +16,7 @@ if [ "$NODE_ENV" = "production" ]; then
 else
   echo "Non-production environment detected, tailing /dev/null..."
   npm i -g pm2@5.4.3
-  pm2 start --name "ptc-dashboard" npm -- run start
+  pm2 start --name "olt-gui" npm -- run start
   pm2 logs
   tail -f /dev/null
 fi
