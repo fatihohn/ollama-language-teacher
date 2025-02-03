@@ -265,7 +265,7 @@ export default function ChatApp() {
         >
           <i className={`bi ${isRecording ? "bi-stop-circle" : "bi-mic"}`}></i>
         </button>
-        <input
+        <textarea
           type="text"
           className="form-control"
           placeholder="Type your message..."
