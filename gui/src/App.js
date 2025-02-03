@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App" style={{ margin: "20px", padding: "20px" }}>
-      <div className="d-flex justify-content-center align-items-center mb-3">
+      {/* <div className="d-flex justify-content-center align-items-center mb-3">
         <img
           src="https://img.freepik.com/premium-vector/cute-business-llama-icon-illustration-alpaca-mascot-cartoon-character-animal-icon-concept-isolated_138676-989.jpg?w=1060"
           alt="Brand Logo 1"
@@ -22,7 +22,7 @@ function App() {
           alt="Brand Logo 3"
           style={{ width: "100px" }}
         />
-      </div>
+      </div> */}
 
       <ChatApp />
 

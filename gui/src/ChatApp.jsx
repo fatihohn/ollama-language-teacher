@@ -192,9 +192,9 @@ export default function ChatApp() {
 
   return (
     <div className="container py-4">
-      <h1>
+      {/* <h1>
         <i className="bi bi-chat-dots-fill"></i> Chat with your Custom agent 🤖
-      </h1>
+      </h1> */}
 
       <Card
         className="shadow-sm mb-4"
