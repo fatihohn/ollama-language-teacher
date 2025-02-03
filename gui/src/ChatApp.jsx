@@ -96,13 +96,12 @@ export default function ChatApp() {
               content: messageContent.replace(/<think>.*?<\/think>/gs, ""),
               reasoning: reasoningContent,
             };
+            const lastMessage = prev[prev.length - 1];
 
-            const lastMessage = prev.pop();
-
-            if (lastMessage.role === "assistant") {
+            if (lastMessage && lastMessage.role === "user") {
               return [...prev, assistantMessage];
             } else {
-              return [...prev, lastMessage, assistantMessage];
+              return [...prev.slice(0, -1), assistantMessage];
             }
           });
           spareString = "";
