@@ -2,6 +2,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { Card } from "react-bootstrap";
+import MarkdownRender from "./MarkdownRender";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
@@ -70,18 +71,6 @@ export default function ChatApp() {
         } else if (isThinking) {
           reasoningContent += chunkContent;
         } else {
-          // messageContent += chunkContent;
-          // // eslint-disable-next-line no-loop-func
-          // setMessages((prev) => {
-          //   const assistantMessage = {
-          //     role: "assistant",
-          //     content: messageContent.replace(/<think>.*?<\/think>/gs, ""),
-          //     reasoning: reasoningContent,
-          //   };
-          //   return [...prev.slice(0, -1), assistantMessage];
-          // });
-
-          // messageContent += chunkContent;
           const jsonArray = [spareString, jsonString]
             .join("")
             .split("\n")
@@ -112,30 +101,6 @@ export default function ChatApp() {
           spareString = "";
         }
       }
-
-      // try {
-      //   const jsonArray = jsonString
-      //     .split("\n")
-      //     .filter((line) => line.trim())
-      //     .map((line) => JSON.parse(line));
-
-      //   jsonArray.forEach((data) => {
-      //     if (data.message?.content) {
-      //       messageContent += data.message.content;
-      //     }
-      //   });
-      // } catch (e) {
-      //   console.error("JSON parsing error:", e);
-      // }
-
-      // setMessages((prev) => {
-      //   const assistantMessage = {
-      //     role: "assistant",
-      //     content: messageContent.replace(/<think>.*?<\/think>/gs, ""),
-      //     reasoning: reasoningContent,
-      //   };
-      //   return [...prev, assistantMessage];
-      // });
     } catch (error) {
       console.error("Error streaming response:", error);
     } finally {
@@ -249,7 +214,7 @@ export default function ChatApp() {
                 }`}
                 style={{ maxWidth: "70%" }}
               >
-                <p>{msg.content}</p>
+                <MarkdownRender content={msg.content} />
                 {msg.reasoning && (
                   <p className="text-secondary">
                     <i className="bi bi-brain"></i> {msg.reasoning}
