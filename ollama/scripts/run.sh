@@ -6,9 +6,9 @@ until curl -sSf http://localhost:11434/api/tags > /dev/null; do
     sleep 2
 done
 
-ollama pull deepseek-r1:1.5b
+ollama pull deepseek-r1:7b
 
-ollama run deepseek-r1:1.5b
+ollama run deepseek-r1:7b
 
 echo "Ollama is now running!"
 
