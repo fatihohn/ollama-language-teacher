@@ -52,7 +52,7 @@ export default function ChatApp() {
       let done = false;
       let messageContent = "";
       let reasoningContent = "";
-      let jsonString = "";
+      // let jsonString = "";
       let spareString = "";
 
       while (!done) {
@@ -60,7 +60,7 @@ export default function ChatApp() {
         done = doneReading;
 
         const chunkContent = decoder.decode(value, { stream: true });
-        jsonString += chunkContent;
+        // jsonString += chunkContent;
 
         if (chunkContent.startsWith("<think>")) {
           setIsThinking(true);
