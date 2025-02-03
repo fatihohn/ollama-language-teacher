@@ -198,7 +198,7 @@ export default function ChatApp() {
 
       <Card
         className="shadow-sm mb-4"
-        style={{ maxHeight: "80vh", overflowY: "auto", minHeight: "80vh" }}
+        style={{ maxHeight: "700vh", overflowY: "auto", minHeight: "700vh" }}
       >
         <Card.Body>
           {messages.map((msg, index) => (
