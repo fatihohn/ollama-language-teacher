@@ -36,7 +36,7 @@ export default function ChatApp() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          model: "deepseek-r1:7b",
+          model: process.env.REACT_APP_AI_MODEL,
           messages: [...messages, userMessage],
           stream: true,
         }),

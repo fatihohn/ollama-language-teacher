@@ -6,9 +6,9 @@ until curl -sSf http://localhost:11434/api/tags > /dev/null; do
     sleep 2
 done
 
-ollama pull deepseek-r1:7b
+ollama pull $REACT_APP_AI_MODEL
 
-ollama run deepseek-r1:7b
+ollama run $REACT_APP_AI_MODEL
 
 echo "Ollama is now running!"
 
