@@ -54,7 +54,7 @@ export default function ChatApp() {
       let reasoningContent = "";
       let jsonString = "";
       let spareString = "";
-
+      let init = false;
       while (!done) {
         const { value, done: doneReading } = await reader.read();
         done = doneReading;
@@ -96,9 +96,12 @@ export default function ChatApp() {
               content: messageContent.replace(/<think>.*?<\/think>/gs, ""),
               reasoning: reasoningContent,
             };
-            return [...prev.slice(0, -1), assistantMessage];
+            return init === true
+              ? [...prev.slice(0, -1), assistantMessage]
+              : [...prev, assistantMessage];
           });
           spareString = "";
+          init = true;
         }
       }
     } catch (error) {
