@@ -80,7 +80,7 @@ export default function ChatApp() {
           //   return [...prev.slice(0, -1), assistantMessage];
           // });
 
-          messageContent += chunkContent;
+          // messageContent += chunkContent;
           try {
             const jsonArray = jsonString
               .split("\n")
