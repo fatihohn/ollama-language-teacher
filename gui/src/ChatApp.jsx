@@ -71,7 +71,8 @@ export default function ChatApp() {
         } else if (isThinking) {
           reasoningContent += chunkContent;
         } else {
-          const jsonArray = [spareString, jsonString]
+          // const jsonArray = [spareString, jsonString]
+          const jsonArray = [spareString, chunkContent]
             .join("")
             .split("\n")
             .filter((line) => line.trim())
