@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { Card } from "react-bootstrap";
-import MarkdownRender from "./MarkdownRender";
+import { MarkdownRenderer } from "./components/MarkdownRenderer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
@@ -214,7 +214,7 @@ export default function ChatApp() {
                 }`}
                 style={{ maxWidth: "70%" }}
               >
-                <MarkdownRender content={msg.content} />
+                <MarkdownRenderer content={msg.content} />
                 {msg.reasoning && (
                   <p className="text-secondary">
                     <i className="bi bi-brain"></i> {msg.reasoning}
