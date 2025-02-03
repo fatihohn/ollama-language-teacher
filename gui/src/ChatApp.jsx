@@ -1,3 +1,4 @@
+/* eslint-disable no-loop-func */
 import React, { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { Card } from "react-bootstrap";
@@ -68,8 +69,33 @@ export default function ChatApp() {
         } else if (isThinking) {
           reasoningContent += chunkContent;
         } else {
+          // messageContent += chunkContent;
+          // // eslint-disable-next-line no-loop-func
+          // setMessages((prev) => {
+          //   const assistantMessage = {
+          //     role: "assistant",
+          //     content: messageContent.replace(/<think>.*?<\/think>/gs, ""),
+          //     reasoning: reasoningContent,
+          //   };
+          //   return [...prev.slice(0, -1), assistantMessage];
+          // });
+
           messageContent += chunkContent;
-          // eslint-disable-next-line no-loop-func
+          try {
+            const jsonArray = jsonString
+              .split("\n")
+              .filter((line) => line.trim())
+              .map((line) => JSON.parse(line));
+
+            jsonArray.forEach((data) => {
+              if (data.message?.content) {
+                messageContent += data.message.content;
+              }
+            });
+          } catch (e) {
+            console.error("JSON parsing error:", e);
+          }
+
           setMessages((prev) => {
             const assistantMessage = {
               role: "assistant",
@@ -81,29 +107,29 @@ export default function ChatApp() {
         }
       }
 
-      try {
-        const jsonArray = jsonString
-          .split("\n")
-          .filter((line) => line.trim())
-          .map((line) => JSON.parse(line));
+      // try {
+      //   const jsonArray = jsonString
+      //     .split("\n")
+      //     .filter((line) => line.trim())
+      //     .map((line) => JSON.parse(line));
 
-        jsonArray.forEach((data) => {
-          if (data.message?.content) {
-            messageContent += data.message.content;
-          }
-        });
-      } catch (e) {
-        console.error("JSON parsing error:", e);
-      }
+      //   jsonArray.forEach((data) => {
+      //     if (data.message?.content) {
+      //       messageContent += data.message.content;
+      //     }
+      //   });
+      // } catch (e) {
+      //   console.error("JSON parsing error:", e);
+      // }
 
-      setMessages((prev) => {
-        const assistantMessage = {
-          role: "assistant",
-          content: messageContent.replace(/<think>.*?<\/think>/gs, ""),
-          reasoning: reasoningContent,
-        };
-        return [...prev, assistantMessage];
-      });
+      // setMessages((prev) => {
+      //   const assistantMessage = {
+      //     role: "assistant",
+      //     content: messageContent.replace(/<think>.*?<\/think>/gs, ""),
+      //     reasoning: reasoningContent,
+      //   };
+      //   return [...prev, assistantMessage];
+      // });
     } catch (error) {
       console.error("Error streaming response:", error);
     } finally {
