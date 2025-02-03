@@ -215,7 +215,7 @@ export default function ChatApp() {
                     ? "bg-primary text-white"
                     : "bg-light text-dark"
                 }`}
-                style={{ maxWidth: "70%" }}
+                style={{ maxWidth: "70%", textAlign: "justify" }}
               >
                 <MarkdownRenderer markdownText={msg.content} />
                 {msg.reasoning && (
