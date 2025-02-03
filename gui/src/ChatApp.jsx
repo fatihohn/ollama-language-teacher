@@ -32,22 +32,25 @@ export default function ChatApp() {
     setIsThinking(false);
 
     try {
-      const response = await fetch(`http://${process.env.REACT_APP_DOMAIN}:11434/api/chat`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          model: process.env.REACT_APP_AI_MODEL,
-          messages: [...messages, userMessage],
-          stream: true,
-        }),
-      });
+      const response = await fetch(
+        `http://${process.env.REACT_APP_DOMAIN}:11434/api/chat`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            model: process.env.REACT_APP_AI_MODEL,
+            messages: [...messages, userMessage],
+            stream: true,
+          }),
+        }
+      );
 
       const reader = response.body.getReader();
       const decoder = new TextDecoder("utf-8");
       let done = false;
       let messageContent = "";
       let reasoningContent = "";
-      let jsonString = ""
+      let jsonString = "";
 
       while (!done) {
         const { value, done: doneReading } = await reader.read();
@@ -64,16 +67,27 @@ export default function ChatApp() {
           reasoningContent += chunkContent.replace("</think>", "");
         } else if (isThinking) {
           reasoningContent += chunkContent;
+        } else {
+          messageContent += chunkContent;
+          // eslint-disable-next-line no-loop-func
+          setMessages((prev) => {
+            const assistantMessage = {
+              role: "assistant",
+              content: messageContent.replace(/<think>.*?<\/think>/gs, ""),
+              reasoning: reasoningContent,
+            };
+            return [...prev.slice(0, -1), assistantMessage];
+          });
         }
       }
 
       try {
         const jsonArray = jsonString
-          .split('\n')
-          .filter(line => line.trim())
-          .map(line => JSON.parse(line));
+          .split("\n")
+          .filter((line) => line.trim())
+          .map((line) => JSON.parse(line));
 
-        jsonArray.forEach(data => {
+        jsonArray.forEach((data) => {
           if (data.message?.content) {
             messageContent += data.message.content;
           }
@@ -153,10 +167,13 @@ export default function ChatApp() {
     // formData.append("audio", audioBlob, "recording.wav"); // Attach the Blob
 
     try {
-      const response = await fetch(`http://${process.env.REACT_APP_DOMAIN}:5001/transcribe`, {
-        method: "POST",
-        body: formData, // Send FormData instead of JSON
-      });
+      const response = await fetch(
+        `http://${process.env.REACT_APP_DOMAIN}:5001/transcribe`,
+        {
+          method: "POST",
+          body: formData, // Send FormData instead of JSON
+        }
+      );
 
       if (!response.ok) {
         throw new Error("Failed to transcribe audio");
@@ -183,19 +200,21 @@ export default function ChatApp() {
           {messages.map((msg, index) => (
             <motion.div
               key={index}
-              className={`d-flex mb-3 ${msg.role === "user"
+              className={`d-flex mb-3 ${
+                msg.role === "user"
                   ? "justify-content-end"
                   : "justify-content-start"
-                }`}
+              }`}
               initial={{ opacity: 0, y: 10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.3 }}
             >
               <Card
-                className={`p-3 rounded shadow-sm ${msg.role === "user"
+                className={`p-3 rounded shadow-sm ${
+                  msg.role === "user"
                     ? "bg-primary text-white"
                     : "bg-light text-dark"
-                  }`}
+                }`}
                 style={{ maxWidth: "70%" }}
               >
                 <p>{msg.content}</p>
