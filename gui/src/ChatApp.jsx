@@ -214,7 +214,7 @@ export default function ChatApp() {
                 }`}
                 style={{ maxWidth: "70%" }}
               >
-                <MarkdownRenderer content={msg.content} />
+                <MarkdownRenderer markdownText={msg.content} />
                 {msg.reasoning && (
                   <p className="text-secondary">
                     <i className="bi bi-brain"></i> {msg.reasoning}

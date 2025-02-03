@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import PropTypes from "prop-types";
-import marked from "marked";
+import { marked } from "marked";
 import DOMPurify from "dompurify";
 
 const MarkdownRenderer = ({ markdownText }) => {
